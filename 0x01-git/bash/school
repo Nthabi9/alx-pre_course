@@ -1,3 +1,2 @@
--e#!/bin/bash\n echo "echo "school"
 #!/bin/bash
- echon echo "school"
+ echo "school"
